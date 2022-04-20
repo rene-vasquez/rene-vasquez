@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @rene-vasquez
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in anything technolgy, cars, and photograpy
+- 🌱 I’m currently learning full-stack development at UT Austin Coding Boot Camp
+- 📫 How to reach me
+-   Twitter: https://twitter.com/rene_vasquez_
+-   Email: rene4801@gmail.com
 
 <!---
 rene-vasquez/rene-vasquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
