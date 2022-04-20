@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything technolgy, cars, and photograpy
 - 🌱 I’m currently learning full-stack development at UT Austin Coding Boot Camp
 - 📫 How to reach me
--   Twitter: https://twitter.com/rene_vasquez_ 
+-   Twitter: @rene_vasquez_
 -   Email: rene4801@gmail.com
 
 <!---
